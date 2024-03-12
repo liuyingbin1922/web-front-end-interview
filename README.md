@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 theme: cyanosis
 ---
@@ -227,3 +228,6 @@ theme: cyanosis
 1. 未来职业规划
 1. 感兴趣的工作方向
 
+=======
+# web-front-end-interview
+>>>>>>> e51de58cd6ccdd3477efe3c59e481e6e08eef9b0
